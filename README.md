@@ -17,17 +17,6 @@ This project is no longer maintained.
 8. 日志功能，调试用。
 9. 嫌弃右边面板太大占地方，可以点游戏区最下面的GRANBLUE FANTASY字样把面板收起来。
 
-## screenshots
-
-![ss1](https://raw.githubusercontent.com/jin5354/gbfplayer/master/screenshots/gbf2.png)
-![ss2](https://raw.githubusercontent.com/jin5354/gbfplayer/master/screenshots/gbf1.png)
-![ss3](https://raw.githubusercontent.com/jin5354/gbfplayer/master/screenshots/gbf3.png)
-![ss4](https://raw.githubusercontent.com/jin5354/gbfplayer/master/screenshots/gbf4.png)
-![ss5](https://raw.githubusercontent.com/jin5354/gbfplayer/master/screenshots/gbf5.png)
-
-## MIT
-
-
 
 
 
